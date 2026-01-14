@@ -23,8 +23,8 @@ geminixiang = DevOpsEngineer(experience_years=4)
 ```
 <table><tr><td valign="top" width="60%">
       <!-- GitHub Stats -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=geminixiang&show_icons=true&theme=tokyonight" width="100%" />
+      <a href="https://github.com/geminixiang">
+        <img src="https://github-readme-stats.geminixiang.xyz/api?username=geminixiang&show_icons=true&theme=tokyonight" width="100%" />
       </a>
 
 </td><td valign="top" width="40%">
